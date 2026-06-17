@@ -1,2 +1,2 @@
-Computer science at AAU.<br/>
+Master's in Computer science at AAU.<br/>
 
